@@ -1,0 +1,12 @@
+[ {
+  "name": "Essential Addons for Elementor",
+  "slug": "essential-addons-for-elementor-lite",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "Elementor",
+  "slug": "elementor",
+  "required": false,
+  "force_activation": false
+}
+]
